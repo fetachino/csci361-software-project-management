@@ -27,6 +27,7 @@ The proposed application helps users record expenses, organize them by category,
 |---|---|
 | [Expense Tracker project plan](docs/expense-tracker-project-plan.md) | Scope, requirements, user flow, architecture, schedule, testing, and risks |
 | [CSCI 361 writing assignment](docs/csci-361-writing-assignment.md) | Index and context for the recovered course writing artifact |
+| [Team project retrospective](docs/team-project-retrospective.md) | Collaboration, pull-request workflow, and project-platform reflection |
 
 ## Delivery plan
 
@@ -44,6 +45,10 @@ The proposal used a three-week incremental plan:
 - Unit and user-test planning
 - Stakeholder-oriented documentation
 - Explicit scope boundaries and delivery risks
+
+## Team contribution note
+
+The team retrospective was written jointly with **Brandon Baker, Gurjinder Kaur, and Lucas Morris**. My contribution was the documented reflection on communication, branching, pull requests, and project-platform trade-offs. This group-management artifact belongs to CSCI 36100; it is separate from the individual design exercises in CSCI 36300.
 
 ## Related implementation work
 
